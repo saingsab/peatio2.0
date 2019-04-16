@@ -62,7 +62,7 @@ You must know what you're doing, there's no shortcut. Please get prepared before
 ### Requirements
 
 * Linux / Mac OSX
-* Ruby 2.1.0
+* Ruby 2.2.7
 * Rails 4.0+
 * Git 1.7.10+
 * Redis 2.0+
