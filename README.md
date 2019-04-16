@@ -1,11 +1,5 @@
-An open-source crypto currency exchange
+PEATIO v2.0 - An open-source crypto currency exchange
 =====================================
-
-**I'M Back**
-
-[![Code Climate](https://codeclimate.com/github/peatio/peatio.png)](https://codeclimate.com/github/peatio/peatio)
-[![Build Status](https://travis-ci.org/peatio/peatio.png?branch=master)](https://travis-ci.org/peatio/peatio)
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/InfraexDevPeatio/Lobby)
 
 Peatio is a free and open-source crypto currency exchange implementation with the Rails framework and other cutting-edge technology.
 
@@ -129,12 +123,13 @@ Peatio is released under the terms of the MIT license. See [http://peatio.mit-li
 
 ### DONATE
 
-**Every satoshi of your kind donation goes into the rerunning peatio again and making it active and adding support for new features and new 
-currencies.**
+**Every donation will help me to maintain updates and add new features and functionalities**
 
-**Bitcoin** address [38jUu1ksNs9d9aFCK8wMPrZtkqDzJjFe5E](https://blockchain.info/address/38jUu1ksNs9d9aFCK8wMPrZtkqDzJjFe5E)
+**Bitcoin** address [18dr92LBJsnEihqv85zgQfQD5oqr2HcR4f](https://blockchain.info/address/18dr92LBJsnEihqv85zgQfQD5oqr2HcR4f)
 
-**Ethereum** address [38jUu1ksNs9d9aFCK8wMPrZtkqDzJjFe5E](https://etherscan.io/address/0x4ba2474e063aec44e23f2bf7fb9e4e2878dbab44)
+**Ethereum** address [0xE0adAeD68598bFD1Fa66326FDfb9e8137Bc47815](https://www.blockchain.com/eth/address/0xE0adAeD68598bFD1Fa66326FDfb9e8137Bc47815)
+
+**Bitcoin Cash** address [qz6qn7cyvxehrl5pfmgwkf0ql3garnlc5yqr6nv0n7](https://www.blockchain.com/bch/address/qz6qn7cyvxehrl5pfmgwkf0ql3garnlc5yqr6nv0n7)
 
 
 ### What is Peatio?
